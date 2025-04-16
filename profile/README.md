@@ -1,45 +1,46 @@
 # Open Smart LED
 
-Une courte description de ton projet ici. Explique à quoi il sert, ce qu'il résout, ou pourquoi il est cool.
+**Open Smart LED** is a self-hosted smart lighting platform designed to control ESP32-based LED strips with flexibility, automation, and full local ownership.
 
 ---
 
 ## Description
 
-Ton projet est une application / API / site web / outil (à adapter) permettant de :
+This project is a **connected LED ecosystem** built for:
 
-- ✅ Fonctionnalité 1
-- ✅ Fonctionnalité 2
-- ✅ Fonctionnalité 3
+- ✅ Adjusting LED brightness dynamically  
+- ✅ Controlling the warmth (color temperature) of the lighting  
+- ✅ Smart LED activation and deactivation based on usage or schedule  
 
-C’est développé en [langage/framework], pensé pour [objectif principal ou type d'utilisateur].
+It is developed primarily in **Python** for the backend/server logic and **Arduino (C++)** for the ESP32 firmware.
 
 ---
 
 ## Roadmap
 
-Tu peux consulter la feuille de route du projet ici :  
-📍 [Lien vers la roadmap](https://cloudy-noodle-3a8.notion.site/Road-map-1d6ae5f679a0800f8f9cfc67e0c11c90)
+Check out the project's development roadmap here:  
+📍 [Roadmap on Notion](https://cloudy-noodle-3a8.notion.site/Road-map-1d6ae5f679a0800f8f9cfc67e0c11c90)
 
 ---
 
-## 🌐 Site web
+## 🌐 Website
 
-Le projet est déployé ici :  
-🔗 [https://ton-site-web.com](https://open-smart-led.fr)
+Learn more, explore features, or purchase the product:  
+🔗 [https://open-smart-led.fr](https://open-smart-led.fr)
 
 ---
 
 ## 🤝 Contact
 
-Tu veux contribuer, poser une question ou juste discuter du projet ? Contacte-moi :
+Want to contribute, ask a question, or just chat about the project? Reach out:
 
-- 📧 Email : [ton.email@exemple.com](mailto:contact@open-smart-led.fr)
-- 🐦 Twitter / X : [@tonpseudo](https://twitter.com/tonpseudo)
-- 💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
+- 📧 Email: [contact@open-smart-led.fr](mailto:contact@open-smart-led.fr)
+- 🐦 Twitter / X: [@yourhandle](https://twitter.com/yourhandle)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
 
-## 📄 Licence
+## 📄 License
 
-Ce projet est distribué sous la licence MIT (ou autre, à adapter). Voir le fichier [LICENSE](./LICENSE) pour plus d'informations.
+This project is licensed under a specific open-source license.  
+See the [LICENSE](./LICENSE) file for full details.
